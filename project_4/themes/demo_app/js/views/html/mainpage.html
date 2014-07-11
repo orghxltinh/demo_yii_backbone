@@ -1,0 +1,11 @@
+<%
+_.each(data,function(item){
+%>
+<div class="one-clear">
+    <input type="checkbox" name="<%- item.attributes.id %>" value="1" /><span><%- item.attributes.text %></span>
+</div>
+
+<%
+});
+%>
+<div class="button one-clear btn btn-default">Vote</div>

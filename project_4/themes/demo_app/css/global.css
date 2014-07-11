@@ -1,0 +1,26 @@
+@import url(bootstrap.min.css);
+
+.one-clear{ position: relative; clear: both; float: none !important;}
+.one-clear:after {position: relative; clear: both;}
+.one-clear:before {position: relative; clear: both;}
+.one-left{ position: relative; float: left;}
+.one-right{position: relative; float: right;}
+.btns{ position: relative; width: 50px; height: 20px; background: #afafaf;}
+.main-contain{
+    position: relative;
+}
+.main-contain > div{
+    width: 100%; height: 100%;
+}
+.main-contain .demo-questions{
+    position: relative; clear: both;
+}
+.main-contain .demo-user{
+    position: absolute; top: 0; left: 0; background: #fafafa;
+}
+
+
+.popup{
+    position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 100; 
+    display: none; background: rgba(0,0,0,0.4);    
+}

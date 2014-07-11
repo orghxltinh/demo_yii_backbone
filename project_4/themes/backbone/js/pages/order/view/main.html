@@ -1,0 +1,19 @@
+
+<div class="content-wrapper">
+    <div id="up-btns" class="one-clear buttons">
+        <div id="create" class="btns" action="create"></div>
+    </div>
+<% _.each(items,function(item){ %>
+    <div class="row one-clear">
+        <div id="content" class="one-left">
+            <div id="name" class="one-left">
+                <%= item.attributes.name %>
+            </div>        
+        </div>
+        <div id="buttons" class="buttons one-right">
+            <div id="update" class="one-left btns" action="update" link="<%- item.id %>"></div>
+            <div id="delete" class="one-left btns" action="delete" link="<%- item.id %>"></div>
+        </div>
+    </div>
+<% }); %>
+</div>

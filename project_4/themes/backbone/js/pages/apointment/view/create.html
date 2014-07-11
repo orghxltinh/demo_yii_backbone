@@ -1,0 +1,12 @@
+<% 
+for(var n in cus.attributes){
+    if( n != 'id'){
+%>
+        <div class="row">
+        <input type="text" name ="<%= n %>" id="<%= n %>" class="<%= n %>" value=""/>
+        </div>
+<%
+    }
+}
+%>
+<button id="sbm-create" class="sbm-create">Create</button>

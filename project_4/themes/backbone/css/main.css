@@ -1,0 +1,88 @@
+html,body, #main_container,.container{
+    height: 100%;
+}
+#left-content{
+    position: absolute; left: -24.8%; top: 0px; height: 100%; z-index: 100; color:#dadada;
+}
+#center-content{
+    min-height: 300px;
+}
+
+/* ----------------- Start: Menu ----------------- */
+#left-content{ 
+    -webkit-transition: left 0.5s ease; -moz-transition: left 0.5s ease; -o-transition: left 0.5s ease;
+    transition: left 0.5s ease; -webkit-transform: translate3d(0,0,100px); -moz-transform: translate3d(0,0,100px);
+    -ms-transform: translate3d(0,0,100px); transform: translate3d(0,0,100px);
+}
+#left-content.ani{ left: 0;}
+#left-content, #left-content #slide-Button{
+    background: #222527; /*background: rgba(38,7,168,0.8);*/
+}
+#left-content #slide-Button{
+    position: absolute; right: -45px; top: 0px; width: 30px; height: 30px;
+}
+#left-content #menu{ display: block; width: 100%; list-style: none; margin: 0; padding: 0;}
+#left-content #menu li{ position: relative; clear: both; height: 30px; margin: 0 0 0 30px;}
+#left-content #menu li.selected{
+    color: #fafafa;
+}
+#left-content #menu li span{ position: absolute; width: 100%; height: 100%; top: 0; left: 0}
+
+/* ----------------- End: Menu ----------------- */
+
+/* ----------------- Start: Main content ----------------- */
+
+#config-bar{ position: relative; clear: both; height: 40px; }
+
+#left-content #menu li.selected{ background: #7a7a7a; color: #fafafa;}
+
+.contents{
+    position: absolute; width: 100%; height: 100%; top: 0; left: 0; display: none;
+    overflow: hidden;
+}
+.contents:first-child{
+    display: block;
+}
+/* -------------- Start: Pages -------------- */
+.contents #row-wrapper{
+    position: relative; clear: both;
+}  
+.contents #row-wrapper ul{
+    position: relative; clear: both; display: block; padding: 0; margin: 0; list-style: none;
+}
+.contents #row-wrapper ul li{
+    position: relative; clear: both;
+}
+.contents .row{
+    overflow: hidden; margin-right: 0; margin-left: 0; height: 20px; margin: 10px 0 10px 0;
+}
+/* -------------- Start: Pages -------------- */
+
+.row #content{
+    
+}
+.row #buttons{
+    width: 100px; height: 100%;
+}
+#buttons .btns{
+    width: 34%; height: 100%;
+}
+#up-btns{ 
+    overflow: hidden;  margin-bottom: 6px;
+}
+#delete-box{
+    position: relative; width: 60%; height: 40%; margin: 0 auto; background: #fafafa;
+    vertical-align: middle; top:30%;
+}
+#delete-box #delete-content{ height: 70%;}
+#delete-box #btns-wrapper{ height: 24%; width: 40%; margin: 0 auto; text-align: center;}
+#delete-box #btns-wrapper 
+#up-btns > div{
+    float: right;
+}
+.buttons #create{ 
+    margin-right: 24px;
+    float: right; background: url(../images/icon_create.png) no-repeat center center;
+}
+.buttons #update{ background: url(../images/icon_update.png) no-repeat center center;}
+.buttons #delete{ background: url(../images/icon_delete.png) no-repeat center center;}

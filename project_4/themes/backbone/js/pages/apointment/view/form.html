@@ -1,0 +1,12 @@
+<% 
+for(var n in items.attributes){
+    if( n != 'id'){
+%>
+        <div class="row">
+            <input type="text" name ="<%= n %>" id="<%= n %>" class="<%= n %>" value="<%= items.attributes[n] %>"/>
+        </div>
+<%
+    }
+}
+%>
+<button id="sbm-update" class="sbm-update">Update</button>
