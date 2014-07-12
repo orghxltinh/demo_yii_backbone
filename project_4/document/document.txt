@@ -1,0 +1,15 @@
+Author name: Hà Xuân Long Tĩnh
+
+This is the small app to demonstrate a polling website
+ 
+BackEnd:PHP Yii framework
+Database: MySQL
+Admin url: {website url}/admin
+username: admin
+password:111aaa@@@
+
+
+FrontEnd: Javascript Backbone framework
+
+I put comments on the source code to describe how it's function
+

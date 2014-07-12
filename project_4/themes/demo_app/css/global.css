@@ -15,9 +15,19 @@
 .main-contain .demo-questions{
     position: relative; clear: both;
 }
+.demo-questions .question-wrapper{
+    width: 50%; margin: 20px auto 0 auto;
+}
+.demo-questions .button{
+    width: 30%; margin: 20px auto 0 auto; display: block;
+} 
+.question-wrapper > div{
+    margin-bottom: 10px; font-size: 18px;
+}
 .main-contain .demo-user{
     position: absolute; top: 0; left: 0; background: #fafafa;
 }
+
 .main-contain .demo-user.ani{
     -webkit-transition: -webkit-transform 0.6s ease; -moz-transition: -webkit-transform 0.6s ease;
     -o-transition: -webkit-transform 0.6s ease; transition: -webkit-transform 0.6s ease;    
@@ -34,7 +44,7 @@
     position: relative; float: left; width: 70%;
 }
 .demo-form div.btn{
-    position: relative; margin: 0 auto; margin-top: 20px; display: block; width: 20%;
+    position: relative; margin: 0 auto; margin-top: 20px; display: block; width: 30%;
 }
 
 .popup{
