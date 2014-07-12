@@ -1,6 +1,9 @@
 <?php
 
 class QuestionController extends CController{
+    public function actionTest(){
+        restSupport::_sendResponse(200,  CJSON::encode(array('response'=>'ok')));        
+    }
     public function actionGet(){
         $models = Question::model()->findAll();
         
@@ -20,20 +23,36 @@ class QuestionController extends CController{
             $customer->other = $other;
             if($customer->save()){
                 foreach($datas as $data):
-                    $cus_ques = new CustomerQuestion();
-                    $cus_ques->customer_id = $customer->id;
-                    $cus_ques->question_id = $data['id'];
-                    $cus_ques->value = $data['value'];
-                    if(!$cus_ques->save()){                       
-                        $success = FALSE;
+                    if($data['value'] == 1){
+                        $cus_ques = new CustomerQuestion();
+                        $cus_ques->customer_id = $customer->id;
+                        $cus_ques->question_id = $data['id'];
+                        $cus_ques->value = $data['value'];
+                        if(!$cus_ques->save()){                       
+                            $success = FALSE;
+                        }
                     }
-                endforeach;                
+                endforeach;    
+                $percentArr = $this->percentInfos();
+                
             }else{
                 $success = FALSE;
             }
             
-            if(isset($success)) restSupport::_sendResponse(200,  CJSON::encode(array('response'=>$success)));
+            if(isset($success)) restSupport::_sendResponse(200,  CJSON::encode(array('response'=>$percentArr)));
             else restSupport::_sendResponse(500,  CJSON::encode(array('response'=>$success)));            
         }
+    }
+    private function percentInfos(){
+        $question = Question::model()->findAll();
+        $total = CustomerQuestion::model()->count('id');
+        $arr = array();
+        foreach($question as $q):
+            $count = CustomerQuestion::model()->count('question_id=:id',array(
+                ':id'=>$q->id));
+            $value = array('name'=>$q->text,'percent'=>($count/$total*100));    
+            $arr[] = $value;
+        endforeach;
+        return $arr;
     }
 }

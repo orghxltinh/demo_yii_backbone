@@ -29,7 +29,9 @@ define(function(require){
         postResult: function(){
             var $checks = demo.$questions.find('input[type="checkbox"]');
             var $other = demo.$questions.find('input[type="text"]');
-            var answer ={}, arr = [], url = jglobal.APIbaseUrl + '/question' + '/post';
+            var answer ={}, arr = [], self = this, 
+                //url = jglobal.APIbaseUrl + '/question' + '/post';
+                url = jglobal.APIbaseUrl + '/question' + '/test';
             $checks.each(function(index,element){
                 var $this = $(this), obj={};
                 var arrid = $this.attr('id').split('-');
@@ -53,12 +55,13 @@ define(function(require){
                 },
                 success: function(resp){    
                     console.log(resp);
+                    require(['chart'],function(){
+                        self.showPieChart(resp);
+                    });
+                    
                 }   
             });
-        },        
-        mainFunc: function(){
-            
-        },
+        }, 
         userFunc: function(){
             demo.$user.hammer();
             var self = this;
@@ -77,14 +80,36 @@ define(function(require){
                         });                        
                     });
                 }
-                
             });
         },
-        getUserInfo: function(){
-            
-        },
-        postData:function(){
-            
+        showPieChart: function(){
+            var pieData = [
+                    {
+                            value: 300,
+                            color:"#F7464A",
+                            highlight: "#FF5A5E",
+                            label: "Red"
+                    },
+                    {
+                            value: 50,
+                            color: "#46BFBD",
+                            highlight: "#5AD3D1",
+                            label: "Green"
+                    },
+                    {
+                            value: 100,
+                            color: "#FDB45C",
+                            highlight: "#FFC870",
+                            label: "Yellow"
+                    },
+                    {
+                            value: 40,
+                            color: "#949FB1",
+                            highlight: "#A8B3C5",
+                            label: "Grey"
+                    }
+		];
+                
         }
     });
     

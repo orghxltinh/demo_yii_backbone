@@ -15,6 +15,7 @@
                 'jquery_hammer' : 'vendor/jquery_hammer',
                 'backbone_hammer':'vendor/backbone_hammer',            
                 router: 'router/router',
+                chart:'vendor/Chart.min'
             },
             shim:{
                 global:['underscore'],
