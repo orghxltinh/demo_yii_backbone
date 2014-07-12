@@ -7,9 +7,14 @@ Database: MySQL
 Admin url: {website url}/admin
 username: admin
 password:111aaa@@@
-
+Rest API Path: \protected\controllers\QuestionController.php
+Admin Path: \protected\modules\admin 
+main layout Path: \protected\views\layouts\main.php
 
 FrontEnd: Javascript Backbone framework
+Path: \themes\demo_app
+Can use with touch device
+responsive
 
 I put comments on the source code to describe how it's function
 

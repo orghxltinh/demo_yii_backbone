@@ -1,15 +1,17 @@
 <?php
-
+/*
+ * this is main Rest API use for this app
+ */
 class QuestionController extends CController{
-    public function actionTest(){
-        restSupport::_sendResponse(200,  CJSON::encode(array('response'=>'ok')));        
-    }
+    //send all data to front end from this 
     public function actionGet(){
         $models = Question::model()->findAll();
         
         $Arr = restSupport::modelToArray($models);
         restSupport::_sendResponse(200,  CJSON::encode($Arr));
     }
+    
+    //get all data from front end, save to database, end return the result
     public function actionPost(){
         $success = TRUE;
         if(isset($_POST['infos'])){

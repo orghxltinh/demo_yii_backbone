@@ -1,8 +1,9 @@
  (function(){
+     //main config of this app
     identifyGlobal(jglobal,function(){
         mainConfig();
     },20);
-    console.log(jglobal);
+    
     function mainConfig(){
         requirejs.config({
             baseUrl: jglobal.appPath+'/js',
@@ -29,7 +30,7 @@
         require(['config'],function(){
             require(['jquery','backbone','router'],function($,Backbone,Router){
                 require(['backbone_hammer'],function(){
-                    
+                //I using hammer.js to handle the touching    
                     var mainRouter = new Router();
                     Backbone.history.start();
                 });
@@ -37,6 +38,9 @@
         });
     }
 
+/*
+ * this function is used to load all variable form website
+ */
     function identifyGlobal(glo,callback,time){
         if(typeof(glo) != 'undefined' && glo !== null){
             if(typeof(callback) == 'function' && callback !== null) callback();

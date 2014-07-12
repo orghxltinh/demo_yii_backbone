@@ -2,6 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
     <?php
     $this->widget('application.components.jsconfig',array(
         'jsvalue'=>array(
@@ -15,7 +16,8 @@
 <?php
     
     $cs = Yii::app()->clientScript;
-    //$cs->registerCssFile(Yii::app()->theme->baseUrl.'/css/global.css');    
+    
+    //using require js to load all js file    
     $cs->registerScriptFile(Yii::app()->theme->baseUrl.'/js/vendor/require.js',  CClientScript::POS_HEAD,array('data-main'=>  Yii::app()->theme->baseUrl.'/js/jsloader.js'));    
     //$cs->registerScript();
 ?>

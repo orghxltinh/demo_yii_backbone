@@ -1,3 +1,7 @@
+/*
+ * the router of app
+ * main view is mainpage.js
+ */
 define(function(require){
     var mainView = require('views/mainpage');
     

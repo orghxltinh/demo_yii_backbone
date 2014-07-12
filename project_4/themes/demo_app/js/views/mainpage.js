@@ -1,3 +1,7 @@
+/*
+ *this is the main view 
+ *
+ */
 define(function(require){
     var mainpage_html = require('text!views/html/mainpage.html'),
         form_html = require('text!views/html/userform.html'),
@@ -17,6 +21,8 @@ define(function(require){
         events:{
             "tap div.button":'postResult'
         },
+        
+        //render the view
         render: function(){
             var self = this;
             this.userFunc();
@@ -29,6 +35,8 @@ define(function(require){
             });
             
         },
+        
+        //post data to PHP Rest API
         postResult: function(){
             var $checks = demo.$questions.find('input[type="checkbox"]');
             var $other = demo.$questions.find('input[type="text"]');
@@ -65,6 +73,8 @@ define(function(require){
                 }   
             });
         }, 
+        
+        //get the name of ther user
         userFunc: function(){
             demo.$user.hammer();
             var self = this;
@@ -85,6 +95,8 @@ define(function(require){
                 }
             });
         },
+        
+        //handle the Pie Chart
         showPieChart: function(resp){
             var self = this,
                 $popup = demo.$questions.find('.popup'),
@@ -103,33 +115,6 @@ define(function(require){
                 pieData.push(obj);
             });
         
-            /*var pieData = [
-                    {
-                            value: 300,
-                            color:"#F7464A",
-                            highlight: "#FF5A5E",
-                            label: "Red"
-                    },
-                    {
-                            value: 50,
-                            color: "#46BFBD",
-                            highlight: "#5AD3D1",
-                            label: "Green"
-                    },
-                    {
-                            value: 100,
-                            color: "#FDB45C",
-                            highlight: "#FFC870",
-                            label: "Yellow"
-                    },
-                    {
-                            value: 40,
-                            color: "#949FB1",
-                            highlight: "#A8B3C5",
-                            label: "Grey"
-                    }
-		];
-                */
             $popup.fadeIn(400,function(){
                 console.log($canvas);
                 var context = $canvas[0].getContext("2d");

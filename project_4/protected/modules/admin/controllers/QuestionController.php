@@ -10,6 +10,7 @@
  * Description of QuestionController
  *
  * @author MrTy
+ * this Controller is used to CRUD the question
  */
 class QuestionController extends CController{
     public function filters(){
@@ -35,6 +36,7 @@ class QuestionController extends CController{
         );
     }
     
+    // main view
     public function actionIndex(){    	
         $model=new Question('search');
         $model->unsetAttributes();  // clear any default values
@@ -46,13 +48,11 @@ class QuestionController extends CController{
         ));
     }    
     
+    //create new question
     public function actionCreate()
     {
             $model=new Question;
-
-            // Uncomment the following line if AJAX validation is needed
-            // $this->performAjaxValidation($model);
-
+           
             if(isset($_POST['Question']))
             {
                     $model->attributes=$_POST['Question'];
@@ -67,6 +67,7 @@ class QuestionController extends CController{
                     ));
     }
     
+    //udate new question
     public function actionUpdate($id)
     {
             $model=$this->loadModel($id);	
@@ -84,11 +85,7 @@ class QuestionController extends CController{
                     ));
     }
 
-    /**
-     * Deletes a particular model.
-     * If deletion is successful, the browser will be redirected to the 'admin' page.
-     * @param integer $id the ID of the model to be deleted
-     */
+ 
     public function actionDelete($id)
     {
             $this->loadModel($id)->delete();		
