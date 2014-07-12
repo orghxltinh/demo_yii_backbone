@@ -119,17 +119,7 @@ return array(
             'connectionID' => 'db',
             'sessionTableName' => 'ecom_session'
         ),
-        'mail' => array(
-                'class' => 'ext.yii-mail.YiiMail',
-                'transportType'=>'smtp',
-                'transportOptions'=>array(
-                        'host'=>'in.mailjet.com',
-                        'username'=>'242fcd0ad96ba096f861df70e45fbcc4',
-                        'password'=>'d527a71b02b3e39d7c91e3ab0566b3e6',
-                        'port'=>'587',                       
-                ),
-                'viewPath' => 'application.views.mail',             
-        ),
+        
     ),
     // application-level parameters that can be accessed
     // using Yii::app()->params['paramName']

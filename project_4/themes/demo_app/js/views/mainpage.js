@@ -42,7 +42,7 @@ define(function(require){
             answer.data = arr;
             answer.other = $other.val();
             $.ajax({
-                url: url, type: 'POST', dataType : 'JSON', data: answer,
+                url: url, type: 'POST', dataType : 'JSON', data:{'infos':answer} ,
                 error: function(xhr,tStatus,e){
                     if(!xhr){
                         alert(" We have an error ");
