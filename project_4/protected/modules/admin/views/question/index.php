@@ -27,7 +27,7 @@ $('.search-form form').submit(function(){
 	'dataProvider'=>$model->search(),
 	"itemsCssClass" => "table table-bordered table-striped",
     'summaryText' => '',
-    //'afterAjaxUpdate' => 'function(id,data){settings.afterAjaxUpdate(id, data);setTimeout("$("select").chosen();", 3000);}',
+    //'afterAjaxUpdate' => 'function(id,data){settings.afte rAjaxUpdate(id, data);setTimeout("$("select").chosen();", 3000);}',
     'afterAjaxUpdate' => "function(id, data) {setTimeout('$(\'select\').chosen()',10);}",
 	'filter'=>$model,    
 	'columns'=>array(

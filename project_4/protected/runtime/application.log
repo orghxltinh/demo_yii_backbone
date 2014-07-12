@@ -3617,3 +3617,48 @@ Stack trace:
 REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
 HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
 ---
+2014/07/12 14:26:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 14:26:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 14:26:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/12 14:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/12 14:26:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
