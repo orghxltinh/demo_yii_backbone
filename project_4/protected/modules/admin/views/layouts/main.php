@@ -1,16 +1,17 @@
 <?php
-        $cs = Yii::app()->clientScript;
-        $cs->registerCoreScript('jquery');
-	$cs->registerCoreSCript('jquery.ui');
-	$assurl = $this->module->AssetsUrl;
+    $cs = Yii::app()->clientScript;
+    $cs->registerCoreScript('jquery');
+    $cs->registerCoreSCript('jquery.ui');
+    $assurl = $this->module->AssetsUrl;
+    $cs->registerScriptFile($this->module->AssetsUrl.'/js/animations.js',  CClientScript::POS_HEAD);
+    $cs->registerScriptFile($this->module->AssetsUrl.'/js/chosen.js',  CClientScript::POS_HEAD);
+    $cs->registerScriptFile($this->module->AssetsUrl.'/js/jquery.tablednd.js',  CClientScript::POS_HEAD);
+    $cs->registerScriptFile($this->module->AssetsUrl.'/js/jscolor.js',  CClientScript::POS_HEAD);
+    
+    $cs->registerCssFile(Yii::app()->theme->baseUrl.'/css/global.css');
+    $cs->registerCssFile($this->module->AssetsUrl.'/css/style.css');
+    $cs->registerCssFile($this->module->AssetsUrl.'/css/dashboard.css');
 	
-        
-        $cs->registerCssFile(Yii::app()->theme->baseUrl.'/css/global.css');
-	$cs->registerCssFile($this->module->AssetsUrl.'/css/style.css');
-	$cs->registerCssFile($this->module->AssetsUrl.'/css/dashboard.css');
-	$cs->registerScriptFile($this->module->AssetsUrl.'/js/animations.js');
-	$cs->registerScriptFile($this->module->AssetsUrl.'/js/chosen.js');
-	$cs->registerScriptFile($this->module->AssetsUrl.'/js/jquery.tablednd.js');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">

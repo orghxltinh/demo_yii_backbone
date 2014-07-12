@@ -51,7 +51,22 @@
                             <?php echo $form->textField($model,'text',array('size'=>60,'maxlength'=>255)); ?>
                             <?php echo $form->error($model,'text'); ?>
                     </div>
-                </div>                
+                </div>     
+                
+                <div class="section">
+                    <?php echo $form->labelEx($model,'color'); ?>
+                    <div>
+                            <?php echo $form->textField($model,'color',array('size'=>60,'maxlength'=>255,'class'=>'color')); ?>
+                            <?php echo $form->error($model,'text'); ?>
+                    </div>
+                </div>    
+                <div class="section">
+                    <?php echo $form->labelEx($model,'highlight'); ?>
+                    <div>
+                            <?php echo $form->textField($model,'highlight',array('size'=>60,'maxlength'=>255,'class'=>'color')); ?>
+                            <?php echo $form->error($model,'text'); ?>
+                    </div>
+                </div>    
                 
                 <div class="row buttons">
                     <br/>

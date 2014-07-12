@@ -9,6 +9,8 @@ define(function(require){
        defaults:{
            'id':null,
            'text': '',
+           'color':'',
+           'highlight':''
        },
        sync: function(method, model, options){
             

@@ -1,0 +1,13 @@
+<ul>
+<%
+_.each(data,function(item){
+%>
+
+<li>
+    <div class="color" style="background: #<%- item.attributes.color %>;"></div>
+    <div class="name"><%- item.attributes.text %></div>
+</li>
+<%
+});
+%>
+</ul>

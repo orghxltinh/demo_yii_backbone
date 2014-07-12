@@ -1,8 +1,10 @@
 define(function(require){
     var mainpage_html = require('text!views/html/mainpage.html'),
         form_html = require('text!views/html/userform.html'),
+        chart_html = require('text!views/html/chart.html'),
         data = require('models/question'),
-        mainpage_T = _.template(mainpage_html);
+        mainpage_T = _.template(mainpage_html),
+        chart_T = _.template(chart_html);
     
     demo.Views.mainview = Backbone.View.extend({
         initialize: function(options){
@@ -22,6 +24,7 @@ define(function(require){
                 success: function(){
                     self.models = self.collection.models;
                     self.$el.append(mainpage_T({data:self.models}));
+                    console.log(self.models);
                 }
             });
             
@@ -30,8 +33,8 @@ define(function(require){
             var $checks = demo.$questions.find('input[type="checkbox"]');
             var $other = demo.$questions.find('input[type="text"]');
             var answer ={}, arr = [], self = this, 
-                //url = jglobal.APIbaseUrl + '/question' + '/post';
-                url = jglobal.APIbaseUrl + '/question' + '/test';
+                url = jglobal.APIbaseUrl + '/question' + '/post';
+                //url = jglobal.APIbaseUrl + '/question' + '/test';
             $checks.each(function(index,element){
                 var $this = $(this), obj={};
                 var arrid = $this.attr('id').split('-');
@@ -82,11 +85,25 @@ define(function(require){
                 }
             });
         },
-        showPieChart: function(){
-            var $popup = demo.$questions.find('.popup'),
+        showPieChart: function(resp){
+            var self = this,
+                $popup = demo.$questions.find('.popup'),
                 $box = $popup.find('.box'),
-                $canvas = $box.find('.canvas-wrapper > canvas');
-            var pieData = [
+                $canvas = $box.find('.canvas-wrapper > canvas'),
+                $sub = $box.find('.chart-sub');
+                
+            var pieData = [];
+            _.each(resp.response,function(item){
+                var obj = {
+                    value: item.percent*3.6,
+                    color: item.color,
+                    highlight: item.highlight,
+                    label: item.name
+                };               
+                pieData.push(obj);
+            });
+        
+            /*var pieData = [
                     {
                             value: 300,
                             color:"#F7464A",
@@ -112,10 +129,12 @@ define(function(require){
                             label: "Grey"
                     }
 		];
+                */
             $popup.fadeIn(400,function(){
                 console.log($canvas);
                 var context = $canvas[0].getContext("2d");
                 var pie = new Chart(context).Pie(pieData);
+                $sub.append(chart_T({data:self.models}));
             });
         }
     });

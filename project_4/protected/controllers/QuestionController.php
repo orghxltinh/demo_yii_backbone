@@ -50,7 +50,10 @@ class QuestionController extends CController{
         foreach($question as $q):
             $count = CustomerQuestion::model()->count('question_id=:id',array(
                 ':id'=>$q->id));
-            $value = array('name'=>$q->text,'percent'=>($count/$total*100));    
+            $value = array(
+                'id'=>$q->id,'name'=>$q->text,'color'=>$q->color,
+                'highlight'=>$q->highlight, 'percent'=>($count/$total*100)
+            );    
             $arr[] = $value;
         endforeach;
         return $arr;
