@@ -10,6 +10,7 @@ define(function(require){
             this.collection = new data.Collection();
             _.bindAll(this,"postResult");
             this.$el.hammer();
+            console.log(jglobal.APIbaseUrl);
         },
         events:{
             "tap div.button":'postResult'
@@ -26,16 +27,56 @@ define(function(require){
             
         },
         postResult: function(){
-            console.log('tap one');
+            var $checks = demo.$questions.find('input[type="checkbox"]');
+            var $other = demo.$questions.find('input[type="text"]');
+            var answer ={}, arr = [], url = jglobal.APIbaseUrl + '/question' + '/post';
+            $checks.each(function(index,element){
+                var $this = $(this), obj={};
+                var arrid = $this.attr('id').split('-');
+                var id = arrid[arrid.length-1];
+                obj.id = id;
+                $this.is(':checked') ? obj.value = 1 : obj.value = 0;
+                arr.push(obj);
+            });            
+            answer.user = this.userName;
+            answer.data = arr;
+            answer.other = $other.val();
+            $.ajax({
+                url: url, type: 'POST', dataType : 'JSON', data: answer,
+                error: function(xhr,tStatus,e){
+                    if(!xhr){
+                        alert(" We have an error ");
+                        alert(tStatus+"   "+e.message);
+                    }else{
+                        alert("else: "+e.message); // the great unknown
+                    }
+                },
+                success: function(resp){    
+                    console.log(resp);
+                }   
+            });
         },        
         mainFunc: function(){
             
         },
         userFunc: function(){
             demo.$user.hammer();
+            var self = this;
             var $input = demo.$user.find('input.demo-name');
             var $btn = demo.$user.find('div.btn');
             $btn.bind('tap',function(){
+                var name = $input.val();
+                if(name != ""){
+                    demo.$user.addClass('ani');
+                    self.userName = $input.val();
+                    globalFunc.animationTrans(demo.$user,[0,demo.Info.height*-1,0]);
+                    globalFunc.transitionEnd(demo.$user,function(){
+                        demo.$user.hide(0,function(){
+                            demo.$user.removeClass('ani');
+                            globalFunc.unsetAnimationTrans(demo.$user);
+                        });                        
+                    });
+                }
                 
             });
         },

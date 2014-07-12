@@ -7,4 +7,9 @@ class QuestionController extends CController{
         $Arr = restSupport::modelToArray($models);
         restSupport::_sendResponse(200,  CJSON::encode($Arr));
     }
+    public function actionPost(){
+        if(isset($_POST)){
+            restSupport::_sendResponse(200,  CJSON::encode($_POST));
+        }
+    }
 }

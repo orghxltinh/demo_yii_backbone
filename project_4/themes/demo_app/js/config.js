@@ -1,6 +1,7 @@
 window.demo = window.demo || {};    
 demo.Views = {}; 
 demo.Events = {}; 
+demo.Info = {};
 
 demo.loadCss = function(url){
     var link = document.createElement('link');
@@ -12,8 +13,8 @@ demo.loadCss = function(url){
     document.body.addEventListener('touchmove', function(event) {
         event.preventDefault();
     }, false);
-    var h = window.innerHeight; 
+    demo.Info.height = window.innerHeight; 
     var main = document.getElementsByClassName('main-contain');
-    main[0].style.height = h+'px';
+    main[0].style.height = demo.Info.height+'px';
 })();
 
