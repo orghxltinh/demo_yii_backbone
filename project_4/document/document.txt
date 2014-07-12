@@ -1,5 +1,6 @@
 Author name: Hà Xuân Long Tĩnh
 
+Dear Mr Joseph K. Ziegler
 This is the small app to demonstrate a polling website
  
 BackEnd:PHP Yii framework
@@ -17,4 +18,8 @@ Can use with touch device
 responsive
 
 I put comments on the source code to describe how it's function
+I still don't have enough time to perfect it...
+I hope this small app is enough to prove my abilities.
+
+Best regards...
 
