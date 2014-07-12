@@ -3888,3 +3888,215 @@ Stack trace:
 REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
 HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
 ---
+2014/07/12 16:22:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:22:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:30:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "infos".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(270): CController->missingAction('infos')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('infos')
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/infos')
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#5 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:30:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:30:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "infos".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(270): CController->missingAction('infos')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('infos')
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/infos')
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#5 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:30:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:30:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "infos".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(270): CController->missingAction('infos')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('infos')
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/infos')
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#5 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "infos".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(270): CController->missingAction('infos')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('infos')
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/infos')
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#5 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "infos".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(270): CController->missingAction('infos')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('infos')
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/infos')
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#5 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/question/infos
+---
+2014/07/12 16:33:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:33:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:34:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:34:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:36:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/12 16:36:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---

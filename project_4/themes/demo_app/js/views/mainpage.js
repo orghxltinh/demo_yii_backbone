@@ -83,6 +83,9 @@ define(function(require){
             });
         },
         showPieChart: function(){
+            var $popup = demo.$questions.find('.popup'),
+                $box = $popup.find('.box'),
+                $canvas = $box.find('.canvas-wrapper > canvas');
             var pieData = [
                     {
                             value: 300,
@@ -109,7 +112,11 @@ define(function(require){
                             label: "Grey"
                     }
 		];
-                
+            $popup.fadeIn(400,function(){
+                console.log($canvas);
+                var context = $canvas[0].getContext("2d");
+                var pie = new Chart(context).Pie(pieData);
+            });
         }
     });
     
