@@ -17,6 +17,7 @@ class Customer extends CActiveRecord
 	/**
 	 * @return string the associated database table name
 	 */
+        public $question_ids;
 	public function tableName()
 	{
 		return 'customer';
@@ -46,7 +47,8 @@ class Customer extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'customerQuestions' => array(self::HAS_MANY, 'CustomerQuestion', 'customer_id'),
+                    'customerQuestions' => array(self::HAS_MANY, 'CustomerQuestion', 'customer_id'),
+                    'questions' => array(self::MANY_MANY, 'Question', 'customer_question(question_id, customer_id)', 'together'=>true),
 		);
 	}
 
@@ -86,10 +88,28 @@ class Customer extends CActiveRecord
 		$criteria->compare('answer',$this->answer,true);
 		$criteria->compare('other',$this->other,true);
 
+                if(!empty($this->question_ids)){
+                      $criteria->compare('question_id', array_values((array)$this->question_ids));
+                }
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
 		));
 	}
+        public function getQuestionName()
+	{
+		if(count($this->questions))
+		{
+			$questions_name = '';
+			foreach($this->questions as $question){
+				//$categories_name .= $category->name.', ';
+                                $questions_name .= CHtml::link($question->text,  Yii::app()->createUrl('admin/question/update/id/'.$question->id) ).', ';
+			}
+
+			$questions_name = rtrim($questions_name,', ');
+			return $questions_name;
+		}
+		return 'None';
+	}	
 
 	/**
 	 * Returns the static model of the specified AR class.

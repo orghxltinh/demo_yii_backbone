@@ -8,9 +8,10 @@ class QuestionController extends CController{
         $models = Question::model()->findAll();
         
         $Arr = restSupport::modelToArray($models);
-        restSupport::_sendResponse(200,  CJSON::encode($Arr));
-    }
-    
+        //Using my custom Yii Restful Webservices support
+        //protected/helpers/restSupport.php
+        restSupport::_sendResponse(200,CJSON::encode($Arr));
+    }    
     //get all data from front end, save to database, end return the result
     public function actionPost(){
         $success = TRUE;
@@ -47,7 +48,8 @@ class QuestionController extends CController{
     }
     private function percentInfos(){
         $question = Question::model()->findAll();
-        $total = CustomerQuestion::model()->count('id');
+        $num_other = Customer::model()->count('other!=""');
+        $total = CustomerQuestion::model()->count('id') + $num_other;
         $arr = array();
         foreach($question as $q):
             $count = CustomerQuestion::model()->count('question_id=:id',array(
@@ -58,6 +60,7 @@ class QuestionController extends CController{
             );    
             $arr[] = $value;
         endforeach;
+        $arr = array('percent'=>$arr,'other'=>($num_other/$total*100));
         return $arr;
     }
 }

@@ -17,6 +17,7 @@ class Question extends CActiveRecord
 	/**
 	 * @return string the associated database table name
 	 */
+    
 	public function tableName()
 	{
 		return 'question';
@@ -46,7 +47,7 @@ class Question extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'customerQuestions' => array(self::HAS_MANY, 'CustomerQuestion', 'question_id'),
+                    'customerQuestions' => array(self::HAS_MANY, 'CustomerQuestion', 'question_id'),                    
 		);
 	}
 
@@ -90,7 +91,7 @@ class Question extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
-
+        
 	/**
 	 * Returns the static model of the specified AR class.
 	 * Please note that you should have this exact method in all your CActiveRecord descendants!

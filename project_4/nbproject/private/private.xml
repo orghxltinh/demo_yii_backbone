@@ -4,12 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/css/global.css</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/views/html/chart.html</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/models/question.js</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/views/html/mainpage.html</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/protected/controllers/QuestionController.php</file>
             <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/views/mainpage.js</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/jsloader.js</file>
+            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/protected/controllers/QuestionController.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/protected/models/Customer.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/config.js</file>
+            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/router/router.js</file>
         </group>
     </open-files>
 </project-private>

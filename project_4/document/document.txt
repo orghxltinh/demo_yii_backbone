@@ -14,8 +14,13 @@ main layout Path: \protected\views\layouts\main.php
 
 FrontEnd: Javascript Backbone framework
 Path: \themes\demo_app
-Can use with touch device
-responsive
+Can use with touch device, smartphone, ipad...
+responsive.
+
+I've just posted a demo to url: http://phimcachnhietgiare.info/project_4/
+Admin: http://phimcachnhietgiare.info/project_4/index.php/admin
+username: admin.
+password: 123456a@
 
 I put comments on the source code to describe how it's function
 I still don't have enough time to perfect it...

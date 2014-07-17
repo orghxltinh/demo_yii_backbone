@@ -4,10 +4,12 @@
 <head>
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <?php
+    Yii::app()->components['urlManager']->showScriptName ? $s = 1 : $s = 0;
     $this->widget('application.components.jsconfig',array(
         'jsvalue'=>array(
             'appPath' =>  Yii::app()->theme->baseUrl,
-            'APIbaseUrl' => Yii::app()->baseUrl
+            'APIbaseUrl' => Yii::app()->baseUrl,
+            'showScriptName' => $s
         )        
     ));
     ?>
@@ -16,7 +18,7 @@
 <?php
     
     $cs = Yii::app()->clientScript;
-    
+    $cs->registerCssFile(Yii::app()->theme->baseUrl.'/css/global.css');
     //using require js to load all js file    
     $cs->registerScriptFile(Yii::app()->theme->baseUrl.'/js/vendor/require.js',  CClientScript::POS_HEAD,array('data-main'=>  Yii::app()->theme->baseUrl.'/js/jsloader.js'));    
     //$cs->registerScript();
@@ -29,7 +31,7 @@
 
 <body>
     <div class="container main-contain"></div>
-
+    <div id="loadingPage"></div>
 
 </body>
 </html>

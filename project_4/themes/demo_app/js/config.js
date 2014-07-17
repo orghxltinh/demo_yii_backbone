@@ -14,7 +14,10 @@ demo.loadCss = function(url){
         event.preventDefault();
     }, false);
     demo.Info.height = window.innerHeight; 
-    var main = document.getElementsByClassName('main-contain');
+    var main = document.getElementsByClassName('main-contain'),
+        loadingPage = document.getElementById('loadingPage');
     main[0].style.height = demo.Info.height+'px';
+    loadingPage.style.height = demo.Info.height+'px';
+    loadingPage.style.display = 'block';
 })();
 

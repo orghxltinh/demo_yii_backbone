@@ -1,5 +1,13 @@
 @import url(bootstrap.min.css);
-
+body{ margin: 0; padding: 0; }
+input{
+    box-shadow: 0px 0px 2px #269abc; border: 1px solid #269abc;
+    -webkit-transition: box-shadow 0.6s ease; -moz-transition: box-shadow 0.6s ease;
+    -o-transition: box-shadow 0.6s ease; transition: box-shadow 0.6s ease;    
+}
+input:focus{
+    box-shadow: 0px 0px 12px #269abc;
+}
 .one-clear{ position: relative; clear: both; float: none !important;}
 .one-clear:after {position: relative; clear: both;}
 .one-clear:before {position: relative; clear: both;}
@@ -7,16 +15,29 @@
 .one-right{position: relative; float: right;}
 .btns{ position: relative; width: 50px; height: 20px; background: #afafaf;}
 .main-contain{
-    position: relative;
+    position: relative; display: none;
+}
+#loadingPage{
+    position: absolute; width: 100%; top: 0; left: 0; display: none;
+    background: url(../images/loading.gif) no-repeat center center;
 }
 .main-contain > div{
     width: 100%; height: 100%;
 }
 .main-contain .demo-questions{
-    position: relative; clear: both;
+    position: relative; clear: both; display: none;
 }
 .demo-questions .question-wrapper{
-    width: 50%; margin: 20px auto 0 auto;
+    width: 50%; margin: 0 auto 0 auto; padding-top: 10px;
+}
+.demo-questions .has-pretty-child{
+    overflow: hidden;
+}
+.demo-questions .question-wrapper span{
+    position: relative; display: block; height: 100%; float: left; line-height: 31px;
+}
+.demo-questions .prettycheckbox{
+    float: left;
 }
 .demo-questions .button{
     width: 30%; margin: 20px auto 0 auto; display: block;
@@ -60,21 +81,52 @@
 }
 .popup .canvas-wrapper canvas{
     position: relative; clear: both; display: block; margin: 0 auto;
+    width: 300px; height: 300px;
 }
 
 .popup .chart-sub{
     position: relative; clear: both; padding-top: 15px;
 }
 .popup ul{
-    position: relative; display: block; clear: both; margin: 0; padding: 0;
+    position: relative; display: block; clear: both; margin: 0 15px 0 15px; padding: 0;
     list-style: none; overflow: hidden;
 }
 .popup ul > li{
     position: relative; display: block; float: left; height: 22px; padding-right: 10px;
+    width: 100px;
 }
 .popup ul > li > div{
     position: relative; float: left; height: 100%;
 }
 .popup ul > li > div.color{
-    width: 50px;
+    width: 30px;
+}
+@media (max-width: 767px) {
+    label{
+        font-size: 12px;
+    }
+    .btn{
+        font-size: 12px;
+    }
+    .question-wrapper span{
+        font-size: 14px;
+    }
+    
+    .popup .box {
+       
+        width: 90%;
+        height: 90%;
+        top: 5%;
+        background: #ffffff;
+    }
+	
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+   
+}
+@media (min-width: 1200px) {
+  
 }

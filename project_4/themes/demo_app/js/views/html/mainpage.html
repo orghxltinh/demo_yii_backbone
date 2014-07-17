@@ -1,9 +1,10 @@
+<div id="one-clear">Your name:&nbsp;<b><span id="your-name"></span></b></div>
 <div class="question-wrapper one-clear">
 <%
 _.each(data,function(item){
 %>
 <div class="one-clear">
-    <input id="qs-check-<%- item.attributes.id %>" class="qs-check" type="checkbox" name="<%- item.attributes.id %>" value="1" /><span>&nbsp;&nbsp;<%- item.attributes.text %></span>
+    <input id="qs-check-<%- item.attributes.id %>" class="qs-check" type="checkbox" data-label='abc' name="<%- item.attributes.id %>" value="1" /><span>&nbsp;&nbsp;<%- item.attributes.text %></span>
 </div>
 
 <%
@@ -13,11 +14,11 @@ _.each(data,function(item){
     <label>Other language&nbsp;&nbsp;</label><input class="qs-other" type="text" name="other"/>
 </div>
 </div>
-<div class="button one-clear btn btn-default">Vote</div>
+<div class="button one-clear btn btn-info">Vote</div>
 <div class="popup">
     <div class="box">
         <div class="canvas-wrapper">
-            <canvas width="300" height="300"></canvas>
+            <canvas></canvas>
         </div>
         <div class="chart-sub">
             

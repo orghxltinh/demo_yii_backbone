@@ -24,7 +24,27 @@
 	<div id="admin">
 
 		<div id="header" class="navbar navbar-inverse navbar-fixed-top">
-			
+                    <ul id="account_info" class="pull-right">
+                            <li id="admin-settings"  title="Trang chủ">
+                                <?php echo CHtml::link('Trang chủ',Yii::app()->createUrl(''),array('target'=>'_blank')); ?>
+                                <div id="settings"><div id="settings-ani"></div>
+                                    <ul class="subnav">
+                                        <li><?php echo CHtml::link("<b>Slider</b>",'#'); ?></li>
+                                        <li><?php echo CHtml::link("<b>Người dùng</b>",'#'); ?></li>
+                                        <li><?php echo CHtml::link("<b>Thông tin footer</b>",'#'); ?></li>
+                                        <li><?php echo CHtml::link("<b>Cài đặt</b>",'#'); ?></li>
+                                    </ul>
+                                    
+                                </div>
+                            </li>
+				<li><img src="<?php echo $assurl;?>/images/avatar.png" alt="Online" /></li>
+				<li class="setting">
+					<b class="red"><?php echo Yii::app()->user->name; ?></b>
+				</li>
+				<li class="logout" title="Đăng xuất">
+					<a href="<?php echo Yii::app()->createUrl('admin/adminpanel/logout'); ?>" onclick="return confirm('Bạn thực sự muốn đăng xuất ?');">Đăng xuất</a>
+				</li>
+			</ul>
                     
 			
 		</div><!-- End Header -->
@@ -38,6 +58,10 @@
 					<li id="dashboard">
 						<span class="ico gray home"></span>
 						<?php echo CHtml::link("<b>Question admin</b>", Yii::app()->createUrl('admin/question')); ?>
+					</li>	
+                                        <li id="dashboard">
+						<span class="ico gray home"></span>
+						<?php echo CHtml::link("<b>Customer admin</b>", Yii::app()->createUrl('admin/customer')); ?>
 					</li>	
 				</ul>
 			</div><!-- End: left-cnt -->

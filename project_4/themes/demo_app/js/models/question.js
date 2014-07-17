@@ -1,9 +1,13 @@
 define(function(require){
    var  _ = require('underscore'),
         Backbone = require('backbone'); 
-        
-   var baseUrl = jglobal.APIbaseUrl, model_name = '/question';
-   
+   console.log(parseInt(jglobal.showScriptName));
+   if(parseInt(jglobal.showScriptName) == 1){     
+		var baseUrl = jglobal.APIbaseUrl, model_name = '/index.php/question';
+		console.log('alo');
+	}
+   else 
+		var baseUrl = jglobal.APIbaseUrl, model_name = '/question';
    var Model = Backbone.Model.extend({
        url: baseUrl + model_name,
        defaults:{

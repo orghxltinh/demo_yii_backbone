@@ -7,10 +7,11 @@ define(function(require){
     
     var Router = Backbone.Router.extend({
         initialize: function(){
-            demo.loadCss(jglobal.appPath+'/css/global.css');
+            demo.loadCss(jglobal.appPath+'/css/prettyCheckable.css');
             demo.$container = $('body').find('.main-contain');            
             demo.$questions = $('<div class="demo-questions"></div>').appendTo(demo.$container);
             demo.$user = $('<div class="demo-user"></div>').appendTo(demo.$container);
+            demo.$loadingPage = $('body').find('#loadingPage');  
         },
         routes:{
             "":'defaultRoute'
