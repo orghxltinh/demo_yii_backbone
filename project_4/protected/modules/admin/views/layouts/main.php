@@ -7,10 +7,12 @@
     $cs->registerScriptFile($this->module->AssetsUrl.'/js/chosen.js',  CClientScript::POS_HEAD);
     $cs->registerScriptFile($this->module->AssetsUrl.'/js/jquery.tablednd.js',  CClientScript::POS_HEAD);
     $cs->registerScriptFile($this->module->AssetsUrl.'/js/jscolor.js',  CClientScript::POS_HEAD);
+    $cs->registerScriptFile($this->module->AssetsUrl.'/js/Chart.min.js',  CClientScript::POS_HEAD);
     
     $cs->registerCssFile(Yii::app()->theme->baseUrl.'/css/global.css');
     $cs->registerCssFile($this->module->AssetsUrl.'/css/style.css');
     $cs->registerCssFile($this->module->AssetsUrl.'/css/dashboard.css');
+    $cs->registerCssFile($this->module->AssetsUrl.'/css/font-awesome.min.css');
 	
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

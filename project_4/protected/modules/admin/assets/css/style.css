@@ -213,3 +213,25 @@ body{
   
   
   /* --------------- End: Product ----------------- */
+  #adminpanel #customer-infos{ width: 30%; }
+  #adminpanel #chart-cus-nums{ width: 70%; }
+  #adminpanel #customer-infos > div{
+      position: relative; clear: both; width: 60%; height: auto; margin: 40px auto; display: table;       
+  }
+  #adminpanel #customer-infos > div > span{
+      position: relative; clear: both; display: block; margin: 0px 4px 0px 4px; text-align: left;
+  }
+  #adminpanel #customer-infos > div span#num{
+      font-size: 40px;
+  }
+  #adminpanel #customer-infos > div span#text{
+  }
+  #adminpanel .title{
+      padding-bottom: 20px;
+  }
+  #adminpanel .canvas-wrapper{
+      margin-bottom: 20px;
+  }
+  #customer-infos .fa{
+      position: absolute; top: 6px; right: 6px;
+  }

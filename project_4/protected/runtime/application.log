@@ -7184,3 +7184,1435 @@ Stack trace:
 REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
 HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
 ---
+2014/07/17 19:58:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 19:58:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:01:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:01:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:02:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:02:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:02:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:02:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:03:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:03:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:03:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:03:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:06:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/17 20:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/17 20:06:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/17 20:06:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/17 21:22:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/17 21:22:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/17 21:23:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/17 21:23:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "test".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(270): CController->missingAction('test')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('test')
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/question/...')
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#5 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/admin/question/test
+---
+2014/07/17 21:27:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('test')
+#8 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/question/...')
+#9 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#11 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/admin/question/test
+---
+2014/07/17 22:38:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/18 07:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/2434afc4/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/2434afc4...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/2434afc4/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/18 08:02:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:02:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:03:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:03:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:03:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:03:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:04:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:04:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:06:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:07:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:07:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:08:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:08:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:08:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:08:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:10:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 08:10:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 09:22:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:22:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:22:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(670): CActiveRecord->getDbConnection()
+#6 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(1472): CActiveRecord->getCommandBuilder()
+#7 E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php(8): CActiveRecord->findAll()
+#8 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\actions\CInlineAction.php(49): QuestionController->actionGet()
+#9 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): CController->run('get')
+#13 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/get')
+#14 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#16 {main}
+REQUEST_URI=/Personal/appH5/project_4/question/get
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:23:22 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(670): CActiveRecord->getDbConnection()
+#6 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(1472): CActiveRecord->getCommandBuilder()
+#7 E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php(8): CActiveRecord->findAll()
+#8 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\actions\CInlineAction.php(49): QuestionController->actionGet()
+#9 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): CController->run('get')
+#13 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/get')
+#14 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#16 {main}
+REQUEST_URI=/Personal/appH5/project_4/question/get
+HTTP_REFERER=http://localhost/personal/appH5/project_4/admin
+---
+2014/07/18 09:23:34 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CDbHttpSession.php(175): CModule->getComponent('db')
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CDbHttpSession.php(199): CDbHttpSession->getDbConnection()
+#5 [internal function]: CDbHttpSession->openSession('E:/wamp/tmp', 'PHPSESSID')
+#6 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CHttpSession.php(114): session_start()
+#7 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CHttpSession.php(88): CHttpSession->open()
+#8 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CModule.php(387): CHttpSession->init()
+#9 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(201): CModule->getComponent('session')
+#10 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\auth\CWebUser.php(199): CWebApplication->getSession()
+#11 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CModule.php(387): CWebUser->init()
+#12 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(209): CModule->getComponent('user')
+#13 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\auth\CAccessControlFilter.php(132): CWebApplication->getUser()
+#14 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#15 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(291): CFilterChain->run()
+#19 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): CController->run('')
+#21 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#22 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#23 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#24 {main}
+REQUEST_URI=/personal/appH5/project_4/index.php/admin
+---
+2014/07/18 09:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:24:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:24:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question
+---
+2014/07/18 09:25:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:25:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:26:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:26:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:39:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:39:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:39:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:39:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:39:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:39:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/question/get
+---
+2014/07/18 09:50:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/admin
+---
+2014/07/18 09:50:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/admin
+---
+2014/07/18 09:50:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/admin/adminpanel/login
+---
+2014/07/18 09:50:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/Personal/appH5/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/personal/appH5/project_4/admin/adminpanel/login
+---
+2014/07/18 11:27:08 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:45)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (45)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:27:57 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:45)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (45)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:33:24 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:51)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (51)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:35:22 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:51)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (51)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:36:58 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:51)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (51)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:37:46 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:51)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (51)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:38:48 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:51)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (51)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 11:39:00 [error] [php] Undefined variable: percentArr (E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php:51)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(286): QuestionController->runAction()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): QuestionController->runActionWithFilters()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): QuestionController->run()
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/question/post
+in E:\wamp\www\Personal\appH5\project_4\protected\controllers\QuestionController.php (51)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 15:30:11 [error] [exception.CException] exception 'CException' with message 'Property "Question.name" is not defined.' in E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CComponent.php:130
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\db\ar\CActiveRecord.php(145): CComponent->__get('name')
+#1 E:\wamp\www\Personal\appH5\project_4\protected\modules\admin\views\adminpanel\index.php(13): CActiveRecord->__get('name')
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CBaseController.php(126): require('E:\wamp\www\Per...')
+#3 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\wamp\www\Per...', NULL, true)
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(869): CBaseController->renderFile('E:\wamp\www\Per...', NULL, true)
+#5 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#6 E:\wamp\www\Personal\appH5\project_4\protected\modules\admin\controllers\AdminpanelController.php(30): CController->render('index')
+#7 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\actions\CInlineAction.php(49): AdminpanelController->actionIndex()
+#8 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(291): CFilterChain->run()
+#15 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): CController->run('')
+#17 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#18 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#19 E:\wamp\www\Personal\appH5\project_4\index.php(22): CApplication->run()
+#20 {main}
+REQUEST_URI=/personal/appH5/project_4/index.php/admin
+HTTP_REFERER=http://localhost/personal/appH5/project_4/index.php/admin/adminpanel/login
+---
+2014/07/18 15:32:03 [error] [php] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed (E:\wamp\www\Personal\appH5\project_4\protected\modules\admin\views\adminpanel\index.php:15)
+Stack trace:
+#0 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CBaseController.php(95): AdminpanelController->renderInternal()
+#1 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(869): AdminpanelController->renderFile()
+#2 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(782): AdminpanelController->renderPartial()
+#3 E:\wamp\www\Personal\appH5\project_4\protected\modules\admin\controllers\AdminpanelController.php(30): AdminpanelController->render()
+#4 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\actions\CInlineAction.php(49): AdminpanelController->actionIndex()
+#5 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilterChain.php(133): AdminpanelController->runAction()
+#7 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#9 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CInlineFilter.php(58): AdminpanelController->filterAccessControl()
+#10 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#11 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(291): CFilterChain->run()
+#12 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CController.php(265): AdminpanelController->runActionWithFilters()
+#13 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(282): AdminpanelController->run()
+#14 E:\wamp\www\Personal\appH5\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#15 E:\wamp\www\Personal\appH5\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 E:\wamp\www\Personal\appH5\project_4\index.php(22): CWebApplication->run()
+REQUEST_URI=/personal/appH5/project_4/index.php/admin
+in E:\wamp\www\Personal\appH5\project_4\protected\modules\admin\views\adminpanel\index.php (15)
+in E:\wamp\www\Personal\appH5\project_4\protected\modules\admin\controllers\AdminpanelController.php (30)
+in E:\wamp\www\Personal\appH5\project_4\index.php (22)
+2014/07/18 19:46:09 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CDbHttpSession.php(175): CModule->getComponent('db')
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CDbHttpSession.php(199): CDbHttpSession->getDbConnection()
+#5 [internal function]: CDbHttpSession->openSession('', 'PHPSESSID')
+#6 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CHttpSession.php(114): session_start()
+#7 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CHttpSession.php(88): CHttpSession->open()
+#8 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CHttpSession->init()
+#9 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(201): CModule->getComponent('session')
+#10 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\auth\CWebUser.php(199): CWebApplication->getSession()
+#11 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CWebUser->init()
+#12 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(209): CModule->getComponent('user')
+#13 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\auth\CAccessControlFilter.php(132): CWebApplication->getUser()
+#14 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#15 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(291): CFilterChain->run()
+#19 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('')
+#21 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#22 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#23 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#24 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/admin
+---
+2014/07/18 19:46:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(670): CActiveRecord->getDbConnection()
+#6 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(1472): CActiveRecord->getCommandBuilder()
+#7 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\protected\controllers\QuestionController.php(8): CActiveRecord->findAll()
+#8 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\actions\CInlineAction.php(49): QuestionController->actionGet()
+#9 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('get')
+#13 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/get')
+#14 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#16 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/get
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/18 19:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/18 19:46:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/19 08:51:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/19 08:51:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/19 08:52:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/19 08:52:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/19 08:52:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/19 08:52:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:41:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:48:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:49:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:49:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:50:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:50:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/20 08:50:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/21 06:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/21 06:30:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/21 06:31:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c469ce79/js/btn_onoff.js".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/c469ce79...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/assets/c469ce79/js/btn_onoff.js
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/admin/adminpanel/login
+---
+2014/07/21 06:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:36:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+---
+2014/07/21 06:36:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+---
+2014/07/21 06:36:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+---
+2014/07/21 06:36:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+---
+2014/07/21 06:43:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:43:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:47:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:47:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:35 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(670): CActiveRecord->getDbConnection()
+#6 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(1472): CActiveRecord->getCommandBuilder()
+#7 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\protected\controllers\QuestionController.php(8): CActiveRecord->findAll()
+#8 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\actions\CInlineAction.php(49): QuestionController->actionGet()
+#9 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('get')
+#13 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/get')
+#14 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#16 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/get
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:41 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(670): CActiveRecord->getDbConnection()
+#6 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(1472): CActiveRecord->getCommandBuilder()
+#7 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\protected\controllers\QuestionController.php(8): CActiveRecord->findAll()
+#8 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\actions\CInlineAction.php(49): QuestionController->actionGet()
+#9 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('get')
+#13 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/get')
+#14 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#16 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/get
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:52:47 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php:382
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(670): CActiveRecord->getDbConnection()
+#6 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\db\ar\CActiveRecord.php(1472): CActiveRecord->getCommandBuilder()
+#7 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\protected\controllers\QuestionController.php(8): CActiveRecord->findAll()
+#8 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\actions\CInlineAction.php(49): QuestionController->actionGet()
+#9 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(282): CController->run('get')
+#13 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('question/get')
+#14 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#16 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/question/get
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 06:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:03:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:03:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:03:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:03:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:16:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:16:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:17:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:17:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:21:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:21:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:25:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:25:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:25:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:25:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:46:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:46:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:47:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/jquery.hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/jquery.hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---
+2014/07/21 07:47:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/demo_app/js/vendor/hammer.min.map".' in C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/demo_app...')
+#1 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\Program Files (x86)\Ampps\www\appH5\AppH5Test\demo_yii_backbone\project_4\index.php(22): CApplication->run()
+#3 {main}
+REQUEST_URI=/appH5/AppH5Test/demo_yii_backbone/project_4/themes/demo_app/js/vendor/hammer.min.map
+HTTP_REFERER=http://localhost/appH5/AppH5Test/demo_yii_backbone/project_4/
+---

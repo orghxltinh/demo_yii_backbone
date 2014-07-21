@@ -8,16 +8,17 @@
  * @property string $name
  * @property string $answer
  * @property string $other
+ * @property string $create_date
  *
  * The followings are the available model relations:
  * @property CustomerQuestion[] $customerQuestions
  */
 class Customer extends CActiveRecord
 {
+    public $question_ids;
 	/**
 	 * @return string the associated database table name
 	 */
-        public $question_ids;
 	public function tableName()
 	{
 		return 'customer';
@@ -32,10 +33,10 @@ class Customer extends CActiveRecord
 		// will receive user inputs.
 		return array(
 			array('name', 'required'),
-			array('name, answer, other', 'length', 'max'=>255),
+			array('name, answer, other, create_date', 'length', 'max'=>255),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id, name, answer, other', 'safe', 'on'=>'search'),
+			array('id, name, answer, other, create_date', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -62,6 +63,7 @@ class Customer extends CActiveRecord
 			'name' => 'Name',
 			'answer' => 'Answer',
 			'other' => 'Other',
+			'create_date' => 'Create Date',
 		);
 	}
 
@@ -87,7 +89,7 @@ class Customer extends CActiveRecord
 		$criteria->compare('name',$this->name,true);
 		$criteria->compare('answer',$this->answer,true);
 		$criteria->compare('other',$this->other,true);
-
+		$criteria->compare('create_date',$this->create_date,true);
                 if(!empty($this->question_ids)){
                       $criteria->compare('question_id', array_values((array)$this->question_ids));
                 }
@@ -95,6 +97,15 @@ class Customer extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+        
+        public function beforeSave() {
+            if(parent::beforeSave()){
+                $this->create_date = time();
+                return true;
+            }
+            return false;
+        }
+        
         public function getQuestionName()
 	{
 		if(count($this->questions))

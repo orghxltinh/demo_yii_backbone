@@ -22,7 +22,7 @@ class QuestionController extends CController{
     public function accessRules() {
         return array(
             array(
-                'allow','actions' => array('create','update','delete'),
+                'allow','actions' => array('create','update','delete','test'),
                 'users' => array('*')
             ),
             array(
@@ -47,7 +47,13 @@ class QuestionController extends CController{
             'model'=>$model,
         ));
     }    
-    
+    public function actionTest(){
+        $time = strtotime("-1 day");
+        //d($time);
+        echo time();
+        echo '<br/>';
+        echo Date('d-m-Y',time());
+    }
     //create new question
     public function actionCreate()
     {
@@ -76,7 +82,7 @@ class QuestionController extends CController{
                     $model->attributes=$_POST['Question'];
                     if($model->save())
                     {				
-                            $this->redirect(array('update','id'=>$id));
+                            $this->redirect(array('index'));
                     }
             }
 

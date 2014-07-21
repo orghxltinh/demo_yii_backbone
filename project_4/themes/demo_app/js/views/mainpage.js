@@ -9,7 +9,7 @@ define(function(require){
         data = require('models/question'),
         mainpage_T = _.template(mainpage_html),
         chart_T = _.template(chart_html);
-    
+       
     demo.Views.mainview = Backbone.View.extend({
         initialize: function(options){
             demo.$user.append(form_html);
@@ -19,7 +19,7 @@ define(function(require){
             this.$window = $(window);
             this.window_w = $(window).width();
             
-            console.log(this.window_w);
+            //console.log(this.window_w);
         },
         events:{
             "tap div.button":'postResult'
@@ -73,13 +73,13 @@ define(function(require){
                 //$this.is(':checked') ? obj.value = 1 : obj.value = 0;
                 arr.push(obj);
             });            
-            console.log(arr.length);            
+            //console.log(arr.length);            
             answer.user = this.userName;
             answer.data = arr;
             answer.other = $other.val();
             if(isSet === true || answer.other !=''){
-                console.log(arr.length);
-                console.log(answer.other);
+                //console.log(arr.length);
+                //console.log(answer.other);
                 $.ajax({
                     url: url, type: 'POST', dataType : 'JSON', data:{'infos':answer} ,
                     error: function(xhr,tStatus,e){
@@ -91,7 +91,7 @@ define(function(require){
                         }
                     },
                     success: function(resp){    
-                        console.log(resp);
+                        //console.log(resp);
                         require(['chart'],function(){
                             self.showPieChart(resp);
                         });
@@ -113,8 +113,17 @@ define(function(require){
         userFunc: function(){
             demo.$user.hammer();
             var self = this;
-            var $input = demo.$user.find('input.demo-name');
+            var $input = demo.$user.find('input.demo-name'),
+                $label = demo.$user.find('label');
             var $btn = demo.$user.find('div.btn');
+            
+            $input.bind('focusin',function(){
+                $label.addClass('hide');
+            });
+            $input.bind('focusout',function(){
+                var text = $input.val();
+                if(text == "") $label.removeClass('hide');
+            });
             $btn.bind('tap',function(){
                 var name = $input.val();
                 if(name != ""){
@@ -139,41 +148,33 @@ define(function(require){
                 $popup = demo.$questions.find('.popup'),
                 $box = $popup.find('.box'),
                 $canvas = $box.find('.canvas-wrapper > canvas'),
-                $sub = $box.find('.chart-sub');
-                
+                $sub = $box.find('.chart-sub');            
             var pieData = [];
             
             _.each(resp.response.percent,function(item){
                 var obj = {
                     value: item.percent*3.6,
-                    color: item.color,
-                    highlight: item.highlight,
+                    color: '#'+item.color,
+                    highlight: '#'+item.highlight,
                     label: item.name
                 };               
                 pieData.push(obj);
             });
             var obj = {
                 value: resp.response.other*3.6,
-                color: '6a6a6a',
-                highlight: '4a4a4a',
+                color: '#6a6a6a',
+                highlight: '#4a4a4a',
                 label: 'Other'
             };   
             pieData.push(obj);
-            
+            console.log(pieData);
             $popup.fadeIn(400,function(){
-                console.log(self.window_w);
-                if(self.window_w < 480){
-                    var box_w = $box.innerWidth();
-                    console.log(box_w);
-                    $canvas[0].width = box_w/2;
-                    $canvas[0].height = box_w/2;
-                }else{
-                    console.log('else');
-                    $canvas[0].width = 300;
-                    $canvas[0].height = 300;
-                }
+               
                 var context = $canvas[0].getContext("2d");
-                var pie = new Chart(context).Pie(pieData);
+                
+                
+                var pie = new Chart(context).Pie(pieData, {responsive : true});
+                
                 $sub.append(chart_T({data:self.models}));
             });
             this.$window.resize(function(){

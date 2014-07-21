@@ -12,6 +12,12 @@ class QuestionController extends CController{
         //protected/helpers/restSupport.php
         restSupport::_sendResponse(200,CJSON::encode($Arr));
     }    
+    
+    public function actionTest(){
+        $arr = $this->percentInfos();
+        d($arr);
+    }
+    
     //get all data from front end, save to database, end return the result
     public function actionPost(){
         $success = TRUE;
@@ -20,7 +26,7 @@ class QuestionController extends CController{
             $datas = $infos['data'];
             $user = $infos['user'];
             $other = $infos['other'];
-            
+            $percentArr = array();
             $customer = new Customer();
             $customer->name = $user;
             $customer->other = $other;
@@ -36,12 +42,12 @@ class QuestionController extends CController{
                         }
                     }
                 endforeach;    
-                $percentArr = $this->percentInfos();
-                
+                $percentArr = $this->percentInfos();                
             }else{
                 $success = FALSE;
             }
             
+            //if(isset($success)) restSupport::_sendResponse(200,  CJSON::encode(array('response'=>$percentArr)));
             if(isset($success)) restSupport::_sendResponse(200,  CJSON::encode(array('response'=>$percentArr)));
             else restSupport::_sendResponse(500,  CJSON::encode(array('response'=>$success)));            
         }

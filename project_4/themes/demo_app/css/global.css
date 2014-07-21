@@ -1,5 +1,8 @@
 @import url(bootstrap.min.css);
-body{ margin: 0; padding: 0; }
+body,html{ 
+    margin: 0; padding: 0;
+}
+
 input{
     box-shadow: 0px 0px 2px #269abc; border: 1px solid #269abc;
     -webkit-transition: box-shadow 0.6s ease; -moz-transition: box-shadow 0.6s ease;
@@ -15,7 +18,7 @@ input:focus{
 .one-right{position: relative; float: right;}
 .btns{ position: relative; width: 50px; height: 20px; background: #afafaf;}
 .main-contain{
-    position: relative; display: none;
+    position: relative; display: none; padding: 0; 
 }
 #loadingPage{
     position: absolute; width: 100%; top: 0; left: 0; display: none;
@@ -27,8 +30,21 @@ input:focus{
 .main-contain .demo-questions{
     position: relative; clear: both; display: none;
 }
+.demo-questions #title-text{
+    text-align: center; font-size: 18px; padding-top: 10px; color: #5bc0de;
+    margin: 0px 5px 0 5px;
+}
 .demo-questions .question-wrapper{
-    width: 50%; margin: 0 auto 0 auto; padding-top: 10px;
+    width: 50%; margin: 0 auto 0 auto; margin-top: 30px; padding: 10px; border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 2px rgba(0,0,0,0.4); -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.4); -moz-box-shadow: 0px 0px 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.4);-moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 2px rgba(0,0,0,0.4); box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.4); 
+    background: url(../images/blue.png) no-repeat top right;
+}
+.demo-questions .question-wrapper .qs-other{
+    width: 100%;
 }
 .demo-questions .has-pretty-child{
     overflow: hidden;
@@ -59,25 +75,30 @@ input:focus{
     width: 60%; margin: 0 auto; top: 40%;
 }
 .demo-form label{
-    position: relative; float: left; width: 30%;
+    position: absolute; top: 0; left: 3px; width: 30%; color: #dadada; line-height: 24px;
+    width: 100%;
 }
 .demo-form input{
-    position: relative; float: left; width: 70%;
+    position: relative; float: left; width: 100%; background: transparent;
 }
 .demo-form div.btn{
     position: relative; margin: 0 auto; margin-top: 20px; display: block; width: 30%;
 }
 
 .popup{
-    position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 100; 
+    position: fixed; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 100; 
     display: none; background: rgba(0,0,0,0.4);    
 }
 .popup .box{
-    position: relative; clear: both; margin: 0 auto; width: 80%; height: 70%;
-    top: 15%; background: #ffffff;
+    position: relative; clear: both; margin: 0 auto; width: 80%; height: 70%; border-radius: 10px;    
+    -webkit-box-shadow: 0px 0px 2px rgba(0,0,0,0.4); -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.4); -moz-box-shadow: 0px 0px 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.4);-moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 2px rgba(0,0,0,0.4); box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.4); top: 15%; background: #ffffff; 
 }
 .popup .canvas-wrapper{
-    position: relative; clear: both; padding-top: 15px;
+    position: relative; clear: both; padding-top: 15px; width: 40%; margin: 0 auto;
 }
 .popup .canvas-wrapper canvas{
     position: relative; clear: both; display: block; margin: 0 auto;
@@ -93,10 +114,13 @@ input:focus{
 }
 .popup ul > li{
     position: relative; display: block; float: left; height: 22px; padding-right: 10px;
-    width: 100px;
+    min-width: 100px; max-width: 200px; margin: 4px 0 4px 0;
 }
 .popup ul > li > div{
     position: relative; float: left; height: 100%;
+}
+.popup ul > li > div.name{
+    margin-left: 10px;
 }
 .popup ul > li > div.color{
     width: 30px;
@@ -110,14 +134,18 @@ input:focus{
     }
     .question-wrapper span{
         font-size: 14px;
+    }    
+    .popup .box {       
+        width: 90%; height: 90%; top: 5%; background: #ffffff;
     }
-    
-    .popup .box {
-       
-        width: 90%;
-        height: 90%;
-        top: 5%;
-        background: #ffffff;
+    .demo-questions .question-wrapper{
+        width: 80%; padding: 4px; margin-top: 15px;
+    }
+    .popup .canvas-wrapper{
+        width: 60%;
+    }
+    .demo-questions #title-text {
+        font-size: 16px;
     }
 	
 }
